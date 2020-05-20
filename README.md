@@ -5,9 +5,11 @@
 Welcome to 4Square, a web app aimed to guide local and beginning farmers through managing their plots of farmland, receiving suggestions
 on which type of crops they should grow, and having access to weather reports all in one free and easy to use app.
 
-## Demo Video
+## Demo Video & Code Explanation
 
 https://www.youtube.com/watch?v=ZPJOUBXX5zE&feature=youtu.be
+
+_(Navigate to finalProject/final.md to view explanation for what each file is responsible for)_
 
 ## Installation
 
