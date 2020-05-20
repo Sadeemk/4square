@@ -13,7 +13,9 @@ https://www.youtube.com/watch?v=ZPJOUBXX5zE&feature=youtu.be
 
 ### Steps to run this application on your machine
 
-**You'll need to have Node.js installed in your machine in order to run this project or you can check out the demo video linked above
+**You'll need to have Node.js installed in your machine in order to run this project or you can check out the demo video linked above**
+
+Clone this repo onto your local machine
 
 ```sh
 git clone https://github.com/Sadeemk/4square.git
@@ -24,11 +26,12 @@ If not already in 4Square directory
 ```sh
 cd 4Square
 ```
+Now start the server
 
 ```sh
 node server.js
 ```
 
-**Now go into your browser and paste in the local host http://localhost:3000/
+**Now go into your browser and paste in the local host http://localhost:3000/**
 
 
