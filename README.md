@@ -34,4 +34,6 @@ node server.js
 
 **Now go into your browser and paste in the local host http://localhost:3000/**
 
+_(Note: The API access tokens used in this project have since expired. So users will not be able to add in their own crop fields. To view how this would work please view the demo video )_
+
 
