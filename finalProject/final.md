@@ -5,30 +5,6 @@ COGS 121 Project
 ### Farm2Fresh
 --
 
-### Team Members & Contributions
----
-
-#### Richard Pena
-* Wrote the structure of the application, including functionality and API calls. I wrote the NodeJS + Express server that would handle all internal and external AJAX requests. Any call written to the aWhere API that we used was written by me. I generated the template to be used with Chart.js that Christian took advantage of. 
-* Additionally, I created all forms that were used to interact with the API. I demonstrated to my team how to use POSTMAN with our API so they could develop locally, and allowed user selected data to be passed around the app via query string or in the body of every request.
-	
-
-#### Sadeem Khan
-
-* Was responsible for creating each of the md files for the milestones. Contributed to brainstorming 
-* Created functionality for parts of the each page including the navbar and team logo
-	
-#### Christian Lay-Geng
-
-* Led brainstorming session, emailed farmers for needfinding
-* Understood agronomics and formatted the charts on field.html
-
-#### Brandon Lien
-
-* Did most of the styling of the app. Selected and formatted the backgrounds we use as well as kept everything centered. Chose images to use in
-* the early stages of the app and made sure there were no watermarks.
-
-
 ### List of Source Code Files
 ---
 
